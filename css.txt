@@ -1,0 +1,15 @@
+body{background: white;
+padding-right: 2px; 
+padding-left: 2px;
+   border: 10px solid #1717
+}
+h1{text-align: center;}
+img{display: block;
+max-width: 100%;
+height : auto;
+    border: 2px solid #1a1a32;
+    overflow: hidden;
+    justify-content: center;
+  align-items: center;
+}
+h3{text-align: center;}

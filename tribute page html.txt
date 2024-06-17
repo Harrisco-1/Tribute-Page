@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css" />
+<title>Martin Luther tribute</title>
+
+  </head>
+  <body>
+<main id="main">
+<h1 id="title">Martin Luther King Jr.</h1>
+<p>The man who played a key role in the American civil rights movements</p>
+<div id="img-div">
+
+<img id="image" src="https://hips.hearstapps.com/hmg-prod/images/american-civil-rights-campaigner-martin-luther-king-and-his-news-photo-1704905097.jpg?" alt="Martin Luther King Jr. and Coretta Scott King help lead the  march.">
+<figcaption id="img-caption">Martin Luther King Jr. and Coretta Scott King help lead marchers from Selma to Montgomery, Alabama, in March 1965.</figcaption>
+</div>
+<section id="tribute-info">
+
+<h2>Here's a time line of  Martin Luther King's life:</h2>
+<ul>
+  <li>
+    <strong>1929 - </strong> Martin Luther King Jr. was born on January 15, 1929, in Atlanta, Georgia, the second child of Martin Luther King Sr., a pastor, and Alberta Williams King, a former schoolteacher.
+</li> 
+<br>
+<li>
+   <strong>1944 - </strong> He entered Morehouse College in Atlanta and He was a popular student, especially with his female classmates, but largely unmotivated, floating through his first two years.
+
+</li> <br>
+<li>
+  <strong>1948 - </strong> Martin Luther received the B. A. degree from Morehouse College, a distinguished Negro institution of Atlanta from which both his father and grandfather had graduated. 
+
+</li><br>
+<li><strong>1951 - </strong> Martin Luther King was awarded the B.D.
+</li><br>
+<li>
+<strong>1954 - </strong> Martin Luther King became pastor of the Dexter Avenue Baptist Church in Montgomery, Alabama. Always a strong worker for civil rights for members of his race, King was, by this time, a member of the executive committee of the National Association for the Advancement of Colored People, the leading organization of its kind in the nation.
+  
+</li><br>
+
+<li>
+<strong>1955 - </strong> King’s first leadership role within the Civil Rights Movement was during the Montgomery Bus Boycott of 1955–1956. The 381-day protest integrated the Alabama city’s public transit in one of the largest and most successful mass movements against racial segregation in history.
+</li><br>
+<li>
+<strong>1955 - </strong>  Martin Luther King enrolled in graduate studies at Boston University, completing his residence for the doctorate in 1953 and receiving the degree in 1955.
+  
+
+</li><br>
+
+<li>
+ <strong>1957 - </strong> Martin Luther King was elected president of the Southern Christian Leadership Conference, an organization formed to provide new leadership for the now burgeoning civil rights movement.  In these years, he led a massive protest in Birmingham, Alabama, that caught the attention of the entire world, providing what he called a coalition of conscience.
+
+</li><br>
+
+<li>
+
+<strong>1958 - </strong> King survived  attempted assassination by Izola Ware Curry, who stabbed him in the chest with a knife. the situation reinforced his dedication to nonviolence: “The experience of these last few days has deepened my faith in the relevance of the spirit of nonviolence if necessary social change is peacefully to take place.”
+
+
+</li><br>
+
+<li>
+
+<strong>1960 - </strong> King and his family moved to Atlanta, his native city, where he joined his father as co-pastor of the Ebenezer Baptist Church. This new position did not stop King and his SCLC colleagues from becoming key players in many of the most significant civil rights battles of the 1960s.
+
+
+</li><br>
+
+<li>
+
+<strong>1963 - </strong> Arrested for his involvement on April 12, King penned the civil rights manifesto known as the “Letter from Birmingham Jail,” an eloquent defense of civil disobedience addressed to a group of white clergymen who had criticized his tactics.
+
+
+</li><br>
+
+<li> 
+  <strong>1964 - </strong> At the age of thirty-five, Martin Luther King, Jr., was the youngest man to have received the Nobel Peace Prize. When notified of his selection, he announced that he would turn over the prize money of $54,123 to the furtherance of the civil rights movement.
+
+</li><br>
+
+<li>
+<strong>April 4,1968 - </strong>
+While standing on a balcony outside his room at the Lorraine Motel in Memphis, Tennessee, Martin Luther King Jr. was killed by a sniper’s bullet. King died at age 39. The shocking assassination sparked riots and demonstrations in more than 100 cities across the country.
+
+</li>
+  <ul>
+</section>
+<section>
+  <h3>Martin Luther King Jr. Quotes</h3>
+  <p>While his <b>“I Have a Dream” </b>speech is the most well-known piece of his writing, Martin Luther King Jr. was the author of multiple books, include “Stride Toward Freedom: The Montgomery Story,” “Why We Can’t Wait,” “Strength to Love,” “Where Do We Go From Here: Chaos or Community?” and the posthumously published “Trumpet of Conscience” with a foreword by Coretta Scott King. Here are some of the most famous Martin Luther King Jr. quotes:
+<p>
+  <ul>
+
+<p> “I Have a Dream” <br> <br>
+  “Injustice anywhere is a threat to justice everywhere.”
+<br><br>
+“Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.”
+<br><br>
+“The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.”
+<br><br>
+“Freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed.”
+<br><br>
+“The time is always right to do what is right.”
+<br><br>
+"True peace is not merely the absence of tension; it is the presence of justice."
+<br><br>
+“Our lives begin to end the day we become silent about things that matter.”
+<br><br>
+
+“Faith is taking the first step even when you don't see the whole staircase.”
+<br><br>
+“In the end, we will remember not the words of our enemies, but the silence of our friends.”
+<br><br>
+"I believe that unarmed truth and unconditional love will have the final word in reality. This is why right, temporarily defeated, is stronger than evil triumphant."
+<br><br>
+“I have decided to stick with love. Hate is too great a burden to bear.”
+<br><br>
+“Be a bush if you can't be a tree. If you can't be a highway, just be a trail. If you can't be a sun, be a star. For it isn't by size that you win or fail. Be the best of whatever you are.”
+<br><br>
+“Life's most persistent and urgent question is, 'What are you doing for others?’”</p>
+
+  </ul>
+   <h3>
+       It will be nice to read about this great civil right activist on his 
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="_blank" >Wikipedia page</a
+          >.
+        </h3>
+</section>
+</main>
+
+  </body>
+  </html>
+
+
+
+
+
+
